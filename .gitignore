@@ -1,0 +1,21 @@
+# Security & secrets
+_private_keys/
+keys/
+*.jks
+*.keystore
+*.keystore.properties
+*.env
+*.env.local
+
+# Large media & video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Dist / build / packages
+node_modules/
+dist/
+build/
+.deploy/
+*.log
